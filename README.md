@@ -8,10 +8,9 @@
 
 
 
-- 🔭 Trabalho com desenvolvimento de sistemas.
-- 🌱 Estudo continuamente as ferramentas mais utilizadas para desenvolvimento de sistemas(java, Mysql, API, Rest.
-- 📫 Contatos: luiz.mascarenhas80@gmail.com
-
+- 🔭 Desenvolvimento de sistemas.
+- 🌱 Ferramentas mais utilizadas para desenvolvimento de sistemas(java, Mysql, API, Rest)
+- 📫 Contatos: luiz.mascarenhas80@gmail
 ## Minhas contribuições
 
 <div>
